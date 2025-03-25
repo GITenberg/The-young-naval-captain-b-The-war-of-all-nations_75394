@@ -1,5 +1,8 @@
 _repo: The-young-naval-captain-b-The-war-of-all-nations_75394
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75394-h/images/cover.jpg
 creator:
   author:
     agent_name: Stratemeyer, Edward
@@ -17,6 +20,8 @@ creator:
     - https://www.gutenberg.org/ebooks/author/55530
 description: 'Also published under the title: "Oscar, the Naval cadet, or Under the
   sea; an interesting and instructive story of adventures on a submarine boat."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75394#The-young-naval-captain-b-The-war-of-all-nations
 gutenberg_issued: '2025-02-17'
 gutenberg_type: Text
 identifiers:
